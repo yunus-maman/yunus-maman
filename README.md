@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2022/05/cybersecurity-6673412_1280-e1670235530570.png)
+
 <h1 align="center">Hi 👋, I'm Yunus Maman</h1>
 <h3 align="center">Cyber Security Specialist</h3>
 
