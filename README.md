@@ -12,5 +12,3 @@
 
 
 
-![snake gif](https://github.com/yunus-maman/yunus-maman/blob/output/github-contribution-grid-snake.gif)
-
