@@ -1,4 +1,4 @@
-[![MasterHead](https://www.yandex.com.tr/gorsel/search?from=tabbar&img_url=https%3A%2F%2Fwww.corsa.com%2Fwp-content%2Fuploads%2F2019%2F06%2FCorsa-Website-MainBanner-1280x720.png&lr=115691&p=1&pos=27&rpt=simage&text=blue%20team%20cyber%20security)
+[![MasterHead](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2022/05/cybersecurity-6673412_1280-e1670235530570.png)
 <h1 align="center">Hi 👋, I'm Yunus Maman</h1>
 <h3 align="center">Cyber Security Specialist</h3>
 
