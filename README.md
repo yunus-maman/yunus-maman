@@ -38,6 +38,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yunus-maman/yunus-maman/output/snake.svg" alt="Snake animation" />
 
-###
