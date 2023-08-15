@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Merhaba, ben Yunus Maman. Siber güvenliğin büyülü dünyasına ilgi duyan, bu alanda tutkuyla hareket eden. Dijital dünyanın karmaşıklığına meydan okuyarak her geçen gün kendini geliştirmeye çalışıyorum.</h2>
+<h2 align="left">Merhaba, ben Yunus Maman. Siber güvenliğin büyülü dünyasına ilgi duyan, bu alanda tutkuyla hareket eden ve dijital dünyanın karmaşıklığına meydan okuyarak her geçen gün kendini geliştirmeye çalışıyorum.</h2>
 
 ###
 
